@@ -6,7 +6,7 @@
 ### **<div align="center">I'm Atılay, a automation and operating systems researcher .🚀</div>**  
   
 
-- 🎓  I'm an Electrical and Electronics Engineering Student at GAUN.
+- 🎓  I'm an Electrical and Computer Sciences Engineer.
   
   
 
@@ -51,13 +51,11 @@
 </td><td valign="top" width="33%">
 
 ### Skills Levels
+* Siemens Tia Portal ⭐⭐⭐⭐
+* Omron SysMac ⭐⭐⭐⭐
 * Linux ⭐⭐⭐⭐
 * Python ⭐⭐⭐⭐
 * Windows ⭐⭐⭐⭐
-* Windows Server ⭐⭐
-* AWS ⭐⭐⭐
-* Kubernetes ⭐⭐
-* Illustrator ⭐⭐
 * Photoshop ⭐⭐⭐
 * Canva ⭐⭐⭐⭐⭐  
 
