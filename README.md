@@ -3,14 +3,14 @@
 </div>  
   
 
-### **<div align="center">I'm Atılay, a cyber security and operating systems researcher .🚀</div>**  
+### **<div align="center">I'm Atılay, a automation and operating systems researcher .🚀</div>**  
   
 
 - 🎓  I'm an Electrical and Electronics Engineering Student at GAUN.
   
   
 
-- 🧑‍💻 I’m currently learning Linux, Cyber Security Applications, DevOps Apps and Windows Server releases.  
+- 🧑‍💻 I’m currently learning Siemens Tia Portal, Omron SysMac, Linux and Windows Server releases.  
   
 
 - 🖼️ I can use Canva professionally, intermediate Photoshop and Illustrator applications.  
